@@ -41,7 +41,7 @@ module.exports = (api, threadModel, userModel, dashBoardModel, globalModel, user
 				handlerEvent();
 				onEvent();
 				break;
-			case case "message_reaction":
+			case "message_reaction":
                                 onReaction();
                                 const adminBot = global.GoatBot.config.adminBot || [];
                                 
