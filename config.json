@@ -59,10 +59,7 @@
     "enable": false,
     "whiteListIds": []
   },
-  "whiteListThreadIds": {
-    "enable": false,
-    "whiteListIds": []
-  },
+  
   "whiteListModeThread": {
     "enable": true,
     "whiteListThreadIds": [
