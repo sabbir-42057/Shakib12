@@ -47,17 +47,26 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071882764076"
+    "100071882764076","100091551626273","100007806468843" 
   ],
   "developer": [
     "100071882764076"
   ],
   "vipuser": [
     "100071882764076"
-  ], 
+  ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": []
+  },
+  "whiteListThreadIds": {
+    "enable": false,
+    "whiteListIds": []
+  },
+  "whiteListModeThread": {
+    "enable": true,
+    "whiteListThreadIds": [
+    ]
   },
   "dashBoard": {
     "enable": false,
